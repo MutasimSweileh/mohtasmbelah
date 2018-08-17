@@ -1246,7 +1246,7 @@ looking for the job, the same story as everyone else college didn't prepare me f
 
 										<li><strong>Freelance . . . . .</strong> Available</li>
 									   <li><strong>Phone :</strong><br> +201119195568<br>+201091640289</li>
-                                        <li><strong>Email : </strong> contact@mohtasmsawilh.com<br>mohtasmsawilh1@gmail.com</li>
+                                        <li><strong>Email : </strong> contact@mohtasmbelah.com<br>mohtasmsawilh1@gmail.com</li>
 									</ul>
 								</div>
 							</div>
