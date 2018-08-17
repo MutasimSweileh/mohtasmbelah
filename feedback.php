@@ -56,3 +56,4 @@ $payload = [
 ];
 $headers = [ 'Authorization: 49a0ce53d4d1d95db780979dc2c22f2bac6f4346' ];
 $email_results = sparkpost('POST', 'transmissions', $payload, $headers);
+echo "email  is  sent !!";
