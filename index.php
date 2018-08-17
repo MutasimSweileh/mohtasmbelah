@@ -1140,87 +1140,7 @@ looking for the job, the same story as everyone else college didn't prepare me f
 				</div>
 			</div>
 
-			<!--
-				Card - Blog
-			-->
-			<div class="card-inner blog" id="blog-card">
-				<div class="card-wrap">
 
-					<!--
-						Blog
-					-->
-					<div class="content blog">
-
-						<!-- title -->
-						<div class="title">Latest Posts</div>
-
-						<!-- content -->
-						<div class="row border-line-v">
-
-							<!-- blog item -->
-							<div class="col col-d-12 col-t-12 col-m-12 border-line-h">
-								<div class="box-item">
-									<div class="image">
-										<a href="blog-post.html">
-											<img src="assets/images/blog/blog1.jpg" alt="" />
-											<span class="info">
-												<span class="ion ion-document-text"></span>
-											</span>
-											<span class="date"><strong>20</strong>Jun</span>
-										</a>
-									</div>
-									<div class="desc">
-										<a href="blog-post.html" class="name">By spite about do of do allow blush</a>
-										<div class="category">Design</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- blog item -->
-							<div class="col col-d-12 col-t-12 col-m-12 border-line-h">
-								<div class="box-item">
-									<div class="image">
-										<a href="blog-post.html">
-											<img src="assets/images/blog/blog2.jpg" alt="" />
-											<span class="info">
-												<span class="ion ion-document-text"></span>
-											</span>
-											<span class="date"><strong>19</strong>Jun</span>
-										</a>
-									</div>
-									<div class="desc">
-										<a href="blog-post.html" class="name">Two Before Arrow Not Relied</a>
-										<div class="category">Coding</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- blog item -->
-							<div class="col col-d-12 col-t-12 col-m-12 border-line-h">
-								<div class="box-item">
-									<div class="image">
-										<a href="blog-post.html">
-											<img src="assets/images/blog/blog3.jpg" alt="" />
-											<span class="info">
-												<span class="ion ion-document-text"></span>
-											</span>
-											<span class="date"><strong>20</strong>Jun</span>
-										</a>
-									</div>
-									<div class="desc">
-										<a href="blog-post.html" class="name">By spite about do of do allow blush</a>
-										<div class="category">Travel</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="clear"></div>
-						</div>
-
-					</div>
-
-				</div>
-			</div>
 
 			<!--
 				Card - Contacts
@@ -1239,7 +1159,7 @@ looking for the job, the same story as everyone else college didn't prepare me f
 						<!-- content -->
 						<div class="row">
 							<div class="col col-d-12 col-t-12 col-m-12 border-line-v">
-								<div class="map none" id="map"></div>
+							   <!--	<div class="map none" id="map"></div> -->
 								<div class="info-list">
 									<ul>
 										<li><strong>Address . . . . .</strong> Zagazig, Egypt</li>
@@ -1277,6 +1197,11 @@ looking for the job, the same story as everyone else college didn't prepare me f
 											<div class="col col-d-6 col-t-6 col-m-12">
 												<div class="group-val">
 													<input type="text" name="email" placeholder="Email Address" />
+												</div>
+											</div>
+                                            <div class="col col-d-12 col-t-12 col-m-12">
+												<div class="group-val">
+													<input type="text" name="subject" placeholder="Subject" />
 												</div>
 											</div>
 											<div class="col col-d-12 col-t-12 col-m-12">
@@ -1322,7 +1247,7 @@ looking for the job, the same story as everyone else college didn't prepare me f
 	<!--
 		Google map api
 	-->
-	<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<!--<script src="http://maps.google.com/maps/api/js?sensor=false"></script>  -->
 
 	<!--
 		Main Scripts
