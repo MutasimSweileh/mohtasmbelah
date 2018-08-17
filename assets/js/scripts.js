@@ -284,6 +284,8 @@ $(function () {
 			},
 			message: {
 				required: true
+			},subject:{
+				required: true
 			},
 			email: {
 				required: true,
