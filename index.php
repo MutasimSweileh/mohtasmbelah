@@ -706,7 +706,7 @@ looking for the job, the same story as everyone else college didn't prepare me f
 										<li class="border-line-h">
 											<div class="name">Photoshop</div>
 											<div class="progress">
-												<div class="percentage" style="width:75%;"></div>
+												<div class="percentage" style="width:80%;"></div>
 											</div>
 										</li>
 										<li class="border-line-h" >
